@@ -1,0 +1,84 @@
+
+
+01-Milk: 1 * 480.00 = 480.00
+03-Bread: 2 * 150.00 = 300.00
+Total before discount: 780.00
+
+02-Eggs: 4 * 28.00 = 112.00
+06-Apples: 4 * 100.00 = 400.00
+Total before discount: 512.00
+
+Total after discount: 460.80
+
+04-Butter: 2 * 250.00 = 500.00
+08-Bananas: 3 * 150.00 = 450.00
+01-Milk: 2 * 480.00 = 960.00
+Total before discount: 1910.00
+
+Total after discount: 1852.70
+03-Bread: 2 * 150.00 = 300.00
+04-Butter: 5 * 250.00 = 1250.00
+Total before discount: 1550.00
+
+Total after discount: 1426.00
+01-Milk: 1 * 480.00 = 480.00
+02-Eggs: 5 * 28.00 = 140.00
+04-Butter: 3 * 250.00 = 750.00
+08-Bananas: 2 * 150.00 = 300.00
+Total before discount: 1670.00
+
+01-Milk: 2 * 480.00 = 960.00
+05-Cheese: 2 * 370.00 = 740.00
+09-Tomatoes: 5 * 140.00 = 700.00
+Total before discount: 2400.00
+
+Total after discount: 1920.00
+
+03-Bread: 2 * 150.00 = 300.00
+06-Apples: 4 * 100.00 = 400.00
+Total before discount: 700.00
+
+Total after discount: 560.00
+
+09-Tomatoes: 3 * 140.00 = 420.00
+Total before discount: 420.00
+
+Total after discount: 378.00
+
+04-Butter: 3 * 250.00 = 750.00
+04-Butter: 2 * 250.00 = 500.00
+05-Cheese: 3 * 370.00 = 1110.00
+Total before discount: 2360.00
+
+Bread: 2 * 150.00 = 300.00
+Cheese: 2 * 370.00 = 740.00
+Total before discount: 1040.00
+
+Total after discount: 936.00
+
+Milk: 1 * 380.00 = 380.00
+Eggs: 5 * 28.00 = 140.00
+Bananas: 2 * 150.00 = 300.00
+Potatoes: 2 * 200.00 = 400.00
+Total before discount: 1220.00
+
+Eggs: 5 * 28.00 = 140.00
+Total before discount: 140.00
+
+Total after discount: 42.00
+
+Butter: 2 * 250.00 = 500.00
+Butter: 6 * 250.00 = 1500.00
+Eggs: 7 * 28.00 = 196.00
+Total before discount: 2196.00
+
+Total after discount: 1976.40
+
+Bread: 4 * 150.00 = 600.00
+Bread: 2 * 150.00 = 300.00
+Cheese: 2 * 370.00 = 740.00
+Total before discount: 1640.00
+
+Total after discount: 1476.00
+
+

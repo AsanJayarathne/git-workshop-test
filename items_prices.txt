@@ -1,0 +1,13 @@
+Milk,380.00
+Eggs,28.00
+Bread,150.00
+Butter,250.00
+Cheese,370.00
+Apples,100.00
+Oranges,50.00
+Bananas,150.00
+Tomatoes,140.00
+Potatoes,200.00
+potato,120.00
+cucumber,5000.00
+choclate,100.00
