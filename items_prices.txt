@@ -10,4 +10,4 @@ Tomatoes,140.00
 Potatoes,200.00
 potato,120.00
 cucumber,5000.00
-choclate,100.00
+choclate,10.00
